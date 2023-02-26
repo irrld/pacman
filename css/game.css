@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+#content {
+    display: flex;
+}
+
+#game {
+    margin: auto;
+}
+
+#start {
+    display: absolute;
+    top: 0;
+    left: 0;
+}
+
+#startButton {
+    margin: auto;
+    color:white;
+}
